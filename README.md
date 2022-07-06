@@ -66,9 +66,4 @@ Total units: 96.0
 从表格第一行正文（如下图）起，复制表格的所有内容直到最后一行的 Status Icon  
 ![image](https://user-images.githubusercontent.com/76863396/174778935-406b5fe3-8ba8-4fed-8645-a1c446f9a04e.png)  
 将复制粘贴的内容填入第一个文本框  
-  
-打开修读计划，从 Course List 的标题开始复制表格内容（如下图），直到 ME 部分的结束，若有多个 Stream 只可复制一个 Stream 的  
-![image](https://user-images.githubusercontent.com/76863396/174779426-3b73bb31-89ef-4867-916e-f8ca7e375bac.png)  
-将复制粘贴的内容填入第二个文本框  
-提交  
-
+右侧下拉选项框选择正确的scheme, 提交
